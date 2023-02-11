@@ -3,7 +3,7 @@
 - CONFIG_FILE_URL မှ စာများကူးပြီး [gist](https://gist.github.com/) ဖွင့် paste လုပ်ပါ
 - file name နေရာတွင် **config.env** ဟုပေးပါ။
 - paste ချထားသော vars များမှ **#မဖြစ်မနေဖြည့်ရမည်များ** တွင်ဖြည့်ပါ။ 
-- base url တွင် render တွင်သုံးမည့် applink ထည့်ပါ။ ဥပမာ မိမိ render app ကို anasmltb0123 ဆိုလျှင် base url တွင် **https://anasmltb0123.onrender.com** ဟုဖြည့်ရမည်
+- base url တွင် render တွင်သုံးမည့် applink ထည့်ပါ။ ဥပမာ မိမိ render app ကို jmdkhmltb0123 ဆိုလျှင် base url တွင် **https://jmdkhmltb0123.onrender.com** ဟုဖြည့်ရမည်
 - port ကို 80 ထားပါ
 - ကျန် vars များလဲ ဖြည့်လိုလျှင်ဖြည့်ပါ
 - upstream repo လုံးဝ **မဖြည့်ရပါ**
