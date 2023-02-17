@@ -43,8 +43,10 @@ QUEUE_ALL = ""
 QUEUE_DOWNLOAD = ""
 QUEUE_UPLOAD = ""
 # RSS
-RSS_DELAY = ""
+RSS_DELAY = ""                              # Require restart after changing it while bot running
+RSS_COMMAND = ""
 RSS_CHAT_ID = ""
+RSS_USER_SESSION_STRING = ""                # Require restart after changing it while bot running
 # Mega
 MEGA_API_KEY = ""
 MEGA_EMAIL_ID = ""
@@ -59,10 +61,8 @@ SEARCH_PLUGINS = '["https://raw.githubusercontent.com/qbittorrent/search-plugins
                    "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/legittorrents.py",
                    "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/limetorrents.py",
                    "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/torrentscsv.py",
-                   "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/torlock.py",
+                   "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/zooqle.py",
                    "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/eztv.py",
-                   "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/torrentproject.py",
-                   "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/solidtorrents.py",
                    "https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engines/master/kickass_torrent.py",
                    "https://raw.githubusercontent.com/MaurizioRicci/qBittorrent_search_engines/master/yts_am.py",
                    "https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py",
@@ -71,5 +71,4 @@ SEARCH_PLUGINS = '["https://raw.githubusercontent.com/qbittorrent/search-plugins
                    "https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/glotorrents.py",
                    "https://raw.githubusercontent.com/LightDestory/qBittorrent-Search-Plugins/master/src/engines/thepiratebay.py",
                    "https://raw.githubusercontent.com/nindogo/qbtSearchScripts/master/magnetdl.py",
-                   "https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py",
                    "https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py"]'
