@@ -1,9 +1,3 @@
-## Usage
-
-- သက်ဆိုင်ရာ railway, render deployment တွင်
-- BOT_TOKEN = ""
-- OWNER_ID = "" တို့သာ add env မှ ဖြည့်ရန်။ Bot token, Owner ID ယူနည်း [ဒီမှာကြည့်ပါ။](https://t.me/drivetalkchannel/161)
-
 ## Deploy On Render (free acc)
 - Render ဖွင့်ပြီး free signup လုပ်ပါ။
 - dashboard.render.com ဖွင့်ပြီး new + ကို နှိပ် web service ကို ရွေးပါ
