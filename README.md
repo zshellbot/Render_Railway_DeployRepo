@@ -2,8 +2,8 @@
 
 - CONFIG_FILE_URL မှ စာများကူးပြီး [gist](https://gist.github.com/) ဖွင့် paste လုပ်ပါ
 - file name နေရာတွင် **config.ini** ဟုပေးပါ။
-- telegram_token = https://t.me/BotFather မှ ယူပါ
-- user_ids = https://t.me/MissRose_bot မှ ယူပါ
+- telegram_token = [BotFather](https://t.me/BotFather) မှ ယူပါ
+- user_ids = [Rose](https://t.me/MissRose_bot) မှ ယူပါ
 - ကျန် vars များ မဖြည့်ပါနှင့်
 - ဖြည့်စရာပြီးလျှင် **create secret gist** အစိမ်းရောင်ကိုနှိပ်ပါ
 - ပြီးလျှင် ဘယ်ဖက်အပေါ်မှ raw ကို နှိပ်ပါ
