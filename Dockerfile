@@ -1,1 +1,1 @@
-FROM drzawlinmg/main:anasPTBSimpleMirror.V2
+FROM drzawlinmg/main:anasmltb-simple.8323
